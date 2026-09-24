@@ -4,7 +4,7 @@
 
 Most of my work sits on the unglamorous side of security: identity plumbing that holds up under audit, cloud controls that survive contact with production, and the automation that stops the same finding from coming back next quarter.
 
-Before SiegePal I was a security software engineer at Teradata, where I built multi-tenant IAM infrastructure, BYOK and column-level encryption, and FedRAMP/FIPS compliance controls across AWS, Azure and GCP.
+Before SiegePal I was a security software engineer at a Fortune 500 company, where I built multi-tenant IAM infrastructure, BYOK and column-level encryption, and FedRAMP/FIPS compliance controls across AWS, Azure and GCP.
 
 ---
 
